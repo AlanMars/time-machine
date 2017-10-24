@@ -1,0 +1,25 @@
+{
+  "name": "time-machine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlanMars/time-machine.git"
+  },
+  "keywords": [
+    "Hyperlapse"
+  ],
+  "author": "AlanMars",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlanMars/time-machine/issues"
+  },
+  "homepage": "https://github.com/AlanMars/time-machine#readme",
+  "dependencies": {
+    "videoshow": "^0.1.11"
+  }
+}
