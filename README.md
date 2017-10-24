@@ -22,4 +22,4 @@ node app.js
 
 ## Reference
 - **[videoshow](https://github.com/h2non/videoshow)**
-- **[Instant Street View](https://www.instantstreetview.com/)**
+- **[Instant Google Street View](https://www.instantstreetview.com/)**
